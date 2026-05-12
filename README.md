@@ -16,6 +16,7 @@ This folder contains coding interview problems and Python solutions.
 | [longest_word_in_list.py](./interview_questions/longest_word_in_list.py) | Find the longest word from a list |
 | [merge_sort_list.py](./interview_questions/merge_sort_list.py) | Implement merge sort algorithm |
 | [missing_int.py](./interview_questions/missing_int.py) | Find missing integer in a sequence |
+| [palindrome_number.py](./interview_questions/palindrome_number.py) | Given integer is a palindrome or not |
 | [recursive_sum.py](./interview_questions/recursive_sum.py) | Find sum of elements using recursion |
 | [two_sum.py](./interview_questions/two_sum.py) | Find two numbers matching target sum |
 
