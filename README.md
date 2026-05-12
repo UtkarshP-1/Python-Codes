@@ -17,6 +17,7 @@ This folder contains coding interview problems and Python solutions.
 | [merge_sort_list.py](./interview_questions/merge_sort_list.py) | Implement merge sort algorithm |
 | [missing_int.py](./interview_questions/missing_int.py) | Find missing integer in a sequence |
 | [recursive_sum.py](./interview_questions/recursive_sum.py) | Find sum of elements using recursion |
+| [two_sum.py](./interview_questions/two_sum.py) | Find two numbers matching target sum |
 
 ---
 
